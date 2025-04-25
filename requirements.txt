@@ -1,2 +1,11 @@
 streamlit
 torch
+numpy
+pickle
+matplotlib
+traceback2
+tqdm
+requests
+pandas
+seaborn
+scikit-learn

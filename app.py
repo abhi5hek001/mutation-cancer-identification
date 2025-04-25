@@ -5,7 +5,7 @@ import torch.nn.functional as F
 import numpy as np
 import pickle
 import matplotlib.pyplot as plt
-import traceback
+import traceback2 as traceback
 
 # Set page configuration
 st.set_page_config(
