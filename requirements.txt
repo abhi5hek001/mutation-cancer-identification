@@ -1,7 +1,6 @@
 streamlit
 torch
-numpy
-pickle
+numpy>=1.21,<2
 matplotlib
 traceback2
 tqdm
