@@ -1,5 +1,8 @@
 # Cancer Classification Project Outline
 
+![CarciTrack_Website](https://github.com/user-attachments/assets/8516695e-c864-4bf9-84de-c044528e02f8)
+
+
 ## 1. Project Overview
 - Project title: Genome Mutation Based Cancer Identification thorugh Deep Learning
 - Purpose: To develop a deep learning model that can classify cancer type and its mutation stage through genomic sequence
